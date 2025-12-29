@@ -33,6 +33,8 @@ Feel free to check out all of my repositories in the [Repositories](https://gith
 - [Twitter](https://x.com/FaisalAminAnik)
 - [Portfolio](Coming Soon)
 - [Website](Coming Soon)
+- [Email](faisalaminanik786786@gmail.com)
+  
 Feel free to open an issue or reach out via email if you'd like to collaborate, have questions, or just want to chat about programming!
 
 ## 🤝 Support
