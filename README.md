@@ -21,7 +21,7 @@ Here are some of the projects I’ve worked on:
 - **[Fresh](https://github.com/FaisalAmin-Anik/Cit-project)**: A fully responsive, user‑friendly site designed to present the project clearly and professionally. Built with attention to layout, visual hierarchy, and intuitive navigation to highlight project components and enhance user engagement.
 - **[finsweet](https://github.com/FaisalAmin-Anik/cit-Project-2)**: A stylish and professional web design template built to present services, features, pricing, and portfolio highlights for startup clients. The site emphasizes responsive structure, clear navigation, and a user‑friendly presentation of content.
 
-Feel free to check out all of my repositories in the (https://github.com/FaisalAmin-Anik?tab=repositories) tab.
+Feel free to check out all of my repositories in the [Repositories](https://github.com/FaisalAmin-Anik?tab=repositories) tab.
 
 ## 📈 GitHub Stats
 
@@ -30,7 +30,7 @@ Feel free to check out all of my repositories in the (https://github.com/FaisalA
 ## 🌐 Connect with Me
 
 - [LinkedIn](Coming Soon)
-- [Twitter](Coming Soon)
+- [Twitter](https://x.com/FaisalAminAnik)
 - [Portfolio](Coming Soon)
 - [Website](Coming Soon)
 Feel free to open an issue or reach out via email if you'd like to collaborate, have questions, or just want to chat about programming!
