@@ -7,7 +7,7 @@ Hi, I'm Faisal Amin Anik, a passionate software and website developer currently 
 - 💻 **Current Focus**: Website Designing
 - 🛠️ **Technologies I'm Exploring**:
   - Programming Languages: [e.g., Python, JavaScript]
-  - Frameworks: [e.g., React, Node.js]
+  - Frameworks: [e.g., React, Node.js, Bootstrap]
   - Databases: [e.g., MySQL, MongoDB]
   - Tools: [e.g., Git, VSCode]
 - 🌱 **I’m currently learning**: [MERN STACK]
